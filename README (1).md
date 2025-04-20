@@ -11,7 +11,7 @@ This project builds and analyzes a co-authorship network using DBLP author profi
 project/
 ├── project.py                 # Main script (this file)
 ├── Input/
-│   ├── scientists.xlsx        # Excel file containing DBLP links/IDs and optional metadata
+│   ├── DataScientists.xls        # Excel file containing DBLP links/IDs and optional metadata
 │   └── config.txt             # (Optional) Contains a number for `kmax` (e.g., 5)
 ├── Results/
 │   └── *.png                  # Output visualizations saved here
